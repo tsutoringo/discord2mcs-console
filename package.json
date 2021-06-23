@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js": "discordjs/discord.js#master",
+    "dotenv": "^10.0.0"
+  }
+}
